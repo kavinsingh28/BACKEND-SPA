@@ -1,12 +1,13 @@
 # BACKEND-SPA
-Consists backend part of Systematic Parking Accomplicher
+A. Consists backend part of Systematic Parking Accomplicher
 
-Dependencies:-
-download pytessaract tool for your system and install it
+B.Dependencies:-
+  1. Download pytessaract tool for your system and install it
+  2. Download trained russian plate number haar cascade (Easily available in google search)
 
 
-Run the code in vscode or any python editor
+C. Run the code in vscode or any python editor
 
-when the camera of laptop is switched during runtime press 's' to save the clear image of number plate
+D. When the camera of laptop is switched during runtime press 's' to save the clear image of number plate
 
-you will see the number of the vehicle in the console
+E. You will see the number of the vehicle in the console
